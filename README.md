@@ -1,1 +1,2 @@
-#Version Control Playground Proyecto de Unity para practicar control de versiones.
+#Version Control Playground Proyecto de Unity para practicar el control de versiones.
+
