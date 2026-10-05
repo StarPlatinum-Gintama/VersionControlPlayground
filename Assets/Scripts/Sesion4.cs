@@ -22,9 +22,12 @@ public class Sesion4 : MonoBehaviour
             for (int j=0; j<mDados; j++)
             {
                 sumaResultado += Random.Range(1,mCaras+1);
-                tiradas[sumaResultado]++;
+               
             }
+
+            tiradas[sumaResultado]++;
         }
+        
 
         for (int i=mDados; i<tiradas.Length ; i++)
         {
