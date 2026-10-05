@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 76800555}
   - component: {fileID: 76800554}
   - component: {fileID: 76800553}
+  - component: {fileID: 76800557}
   m_Layer: 0
   m_Name: Triangle
   m_TagString: Untagged
@@ -221,7 +222,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 76800549}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 16bd4bb66d36a824fb5555dd1b261d5c, type: 3}
   m_Name: 
@@ -262,6 +263,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 154d411b3d62a7e4098ba55ee183cb9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Sesion1
+--- !u!114 &76800557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76800549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c3b32560bd8a474eae3e753f8e8ded9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Sesion4
 --- !u!1 &1162541134
 GameObject:
   m_ObjectHideFlags: 0
